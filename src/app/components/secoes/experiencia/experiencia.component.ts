@@ -12,7 +12,7 @@ export class ExperienciaComponent {
   experiencias: ItemExperiencia[] = [
     {
       duracaoExperiencia: "Abr/2020 - Mai/2021",
-      imgUrl: "./mkj.jpg",
+      imgUrl: "./assets/mkj.jpg",
       alt: "Logo Makenji",
       titulo: "Analista de Planejamento",
       descricao: `
@@ -21,7 +21,7 @@ export class ExperienciaComponent {
     },
     {
       duracaoExperiencia: "Ago/2019 - Fev/2020",
-      imgUrl: "./polowear.png",
+      imgUrl: "./assets/polowear.png",
       alt: "Logo Polo Wear",
       titulo: "Analista de Planejamento",
       descricao: `
@@ -30,7 +30,7 @@ export class ExperienciaComponent {
     },
     {
       duracaoExperiencia: "Ago/2013 - Jun/2019",
-      imgUrl: "./tng.png",
+      imgUrl: "./assets/tng.png",
       alt: "Logo TNG",
       titulo: "Analista de Planejamento",
       descricao: `
