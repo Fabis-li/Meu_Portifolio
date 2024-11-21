@@ -13,13 +13,13 @@ export class PortifolioComponent {
   public itensPortifolio: itemPortifolio[] = [
     {
       href: "#",
-      imgUrl: "./assets/arm_peixe.png",
-      descricao: "Armadura de Peixes",
+      imgUrl: "./assets/pagina_inicial_locadora.png",
+      descricao: "Locadora de Autmovéis",
     },
     {
       href: "#",
-      imgUrl: "./assets/arm_virgem.jpg",
-      descricao: "Armadura de Virgem",
+      imgUrl: "./assets/gerenciador_filmes.png",
+      descricao: "Gerenciador de Filmes",
     },
     {
       href: "#",
