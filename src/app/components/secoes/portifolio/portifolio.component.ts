@@ -20,11 +20,6 @@ export class PortifolioComponent {
       href: "#",
       imgUrl: "./assets/gerenciador_filmes.png",
       descricao: "Gerenciador de Filmes",
-    },
-    {
-      href: "#",
-      imgUrl: "./assets/pegasus.jpg",
-      descricao: "Caveleiro de Pegasus",
-    },    
+    },     
   ];
 }
