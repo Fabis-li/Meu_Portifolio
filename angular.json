@@ -104,7 +104,7 @@
         "deploy": {
           "builder": "angular-cli-ghpages:deploy",
           "options": {
-            "baseHref": "",
+            "baseHref": "https://fabis-li.github.io/Meu_Portifolio/",
             "repo": "https://github.com/Fabis-li/Meu_Portifolio.git"
           }
         }
